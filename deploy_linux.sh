@@ -25,8 +25,8 @@ fi
 
 use_contribs=false
 make_install=false
-create_package=false
-upload_package=false
+create_package=true
+upload_package=true
 
 while [[ $# -gt 0 ]]
 do
